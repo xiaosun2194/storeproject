@@ -64,6 +64,7 @@
         </property>
     </bean>
 
+
     <!-- 配置数据源 -->
     <bean id="dataSource"
           class="org.springframework.jdbc.datasource.DriverManagerDataSource">

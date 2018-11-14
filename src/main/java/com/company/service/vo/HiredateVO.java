@@ -7,6 +7,7 @@ public class HiredateVO implements Serializable {
     private Date startDate;
     private Date endDate;
 
+
     @Override
     public String toString() {
         return "HiredateVO{" +
